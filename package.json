@@ -1,0 +1,28 @@
+{
+  "name": "mini-console",
+  "version": "1.0.0",
+  "description": "A javascript module that abbreviates the Console methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidSikander/mini-console.git"
+  },
+  "keywords": [
+    "console",
+    "console methods",
+    "console log",
+    "abbriviation",
+    "console.log",
+    "console.warn",
+    "console.err"
+  ],
+  "author": "Junaid Sikander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JunaidSikander/mini-console/issues"
+  },
+  "homepage": "https://github.com/JunaidSikander/mini-console#readme"
+}
