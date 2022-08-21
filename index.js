@@ -9,4 +9,10 @@ module.exports = {
     ctr: console.trace.bind(console),
     ca: console.assert.bind(console),
     cC: console.Console.bind(console),
+    c: console.clear.bind(console),
+    cct: console.count.bind(console),
+    ccr: console.countReset.bind(console),
+    cdb: console.debug.bind(console),
+    cxml: console.dirxml.bind(console),
+    ctable: console.table.bind(console),
 };

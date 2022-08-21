@@ -52,3 +52,9 @@ ce('Outputs a info message to the Console.');
 * `ctr -> console.trace`
 * `ca -> console.assert`
 * `cC -> console.Console`
+* `c -> console.clear`
+* `cct -> console.count`
+* `ccr -> console.countReset`
+* `cdb -> console.debug`
+* `cxml -> console.dirxml`
+* `ctable -> console.table`
