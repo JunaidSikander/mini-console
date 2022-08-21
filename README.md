@@ -26,7 +26,7 @@ cd mini-console
 ```js
 const { cl, cw, ce } = require('mini-console');
 // Or using ES2015 imports if you come from the future:
-// import { cl, cw, ce } from 'consl';
+// import { cl, cw, ce } from 'mini-console';
 
 // console.log
 cl('Outputs a message to the Console.');
